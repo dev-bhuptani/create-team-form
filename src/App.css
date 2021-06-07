@@ -1,0 +1,14 @@
+#myForm {
+  border-bottom: 2px solid black;
+}
+header {
+  background-color: #e2012d;
+  width: 100%;
+  color: white;
+  padding: 1rem;
+}
+
+header .heading {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
